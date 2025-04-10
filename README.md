@@ -46,7 +46,7 @@ Tento projekt sa zameriava na klasifikáciu vín na **podpriemerné** a **nadpri
 
 ---
 
-## 🖼️ Vizualizácie
+## 🖼️ Vizualizácie (pozri wine quality report)
 
 - Histogramy vstupných premenných
 - Korelačná matica
@@ -64,13 +64,14 @@ Model logistickej regresie dosiahol solídne výsledky pri rozlišovaní medzi v
 - Vyskúšať iné modely (napr. Random Forest, XGBoost)
 - Vyvážiť triedy, ak dôjde k nevyváženosti
 - Použiť pokročilé metódy interpretácie ako SHAP alebo LIME
+Podrobnejšie informácie sú uvedené v dokumente wine quality report.pdf
 
 ---
 
 ## 📁 Štruktúra projektu
 - dataset wineQT.csv
 - Google colab notebook
-- wine_quality report.pdf
+- wine quality report.pdf
 
 ---
 
